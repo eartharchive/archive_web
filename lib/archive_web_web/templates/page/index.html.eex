@@ -1,4 +1,4 @@
-<div id="app" 
+<div id="game-container" 
      data-game-name="test"
      data-auth-token="test"
      data-ws-url="<%= ws_url() %>">

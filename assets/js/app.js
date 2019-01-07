@@ -19,4 +19,5 @@ import "phoenix_html"
 //import "./copy-game-url"
 //import "./color-selector"
 
-import "./main"
+//import "./main"
+import "./vue-game"
